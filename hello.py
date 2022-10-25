@@ -1,2 +1,2 @@
-print("Hello")
-print("WOrld")
+print("OLÁ")
+print("MUNDO")
