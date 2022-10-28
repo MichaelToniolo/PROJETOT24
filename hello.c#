@@ -1,0 +1,7 @@
+using System;
+Class Hello
+Public static void main(){
+Console.WriteLine("Hello Word!");
+Console.ReadKey();
+}
+}
